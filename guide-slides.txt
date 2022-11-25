@@ -1,0 +1,14 @@
+slide 11: Claims Status = power bi: RECD IP OP AVG
+slide 14 = rcvd kpi dashboard received tab, for 2 quarters
+slide 16 = reference: V:\NEXtCARE\Shared Folders\Shared\Operations - SharePoint Transfer\Operations Support\Recurring Reports\METLIFE\01 QBR\QBR 2021 Q2
+slide 17 = power bi: QBR 
+slide 18 = kpi dashboard - historical data, power bi rcvd tab > claim count
+slide 19 = same as above, but claim amount, excel slide 14
+slide 20 = count and sla (gvm scorecard > claims approvals > tat for ip and op) 
+slide 21 = claims ageing (from power bi ageing tab)
+slide 22 = claims ageing (from power bi ageing tab)
+slide 23 = email glyza, template sent by rosh
+slide 24 = email from glyza, gvm scorecard
+slide 25 = same as above chart from qbr template: FCR-QA-CAS
+slide 26 = tailor-made vs non tailor-made, reference: C:\Users\James.Ratac\Desktop\__recurring-reports\metlife\metlife-qbr\2022-Q1\active-pop
+slide 27 = same as above, Q3 vs Q2
